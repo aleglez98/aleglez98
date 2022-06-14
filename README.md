@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aleglez98
+- 👋 Hi, I’m Alejandro González González
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning JS Frameworks
 - 📫 How to reach me with my mail: aleglezglez98@gmail.com
